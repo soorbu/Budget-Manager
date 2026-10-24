@@ -11,7 +11,7 @@ A command-line based personal budget management system built using Python, MySQL
   - Add one-time, monthly, or yearly income
   - View or delete income entries
 - **Expense Tracking**
-  - Fixed expenses (subscriptions)
+  - Fixed expenses (subscriptions & more)
   - Variable expenses
 - **Investment Portfolio**
   - Add and manage investments
